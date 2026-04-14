@@ -1,0 +1,24 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# virtual environment
+.venv/
+venv/
+
+# pytest
+.pytest_cache/
+
+# setuptools / packaging
+*.egg-info/
+build/
+dist/
+
+# ide
+.idea/
+
+# misc
+.coverage
+htmlcov/
